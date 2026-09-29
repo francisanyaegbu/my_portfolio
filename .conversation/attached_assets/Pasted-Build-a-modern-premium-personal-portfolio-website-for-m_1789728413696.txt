@@ -1,0 +1,467 @@
+Build a modern, premium personal portfolio website for me as a professional Full-Stack / Frontend Developer.
+
+IMPORTANT:
+I will provide my GitHub profile link after this prompt. Analyze my GitHub profile and repositories to identify my actual projects, technologies, coding activity, and relevant experience. Use the information from my GitHub to populate the portfolio instead of creating fake or placeholder projects.
+
+GitHub Profile:
+https://github.com/francisanyaegbu
+
+## GOAL
+
+Create a portfolio that presents me as a professional developer who can build modern, responsive, production-ready websites and web applications for clients and businesses.
+
+The website should feel:
+
+* Modern
+* Professional
+* Premium
+* Minimal
+* Developer-focused
+* Clean and visually impressive
+* Fast and responsive
+* Not overly complicated
+
+Avoid generic AI-generated portfolio designs. The site should feel like it belongs to a real developer.
+
+## TECH STACK
+
+Use:
+
+* Next.js
+* React
+* TypeScript
+* Tailwind CSS
+* Lucide React or another clean icon library
+* Framer Motion for subtle animations where appropriate
+
+Use clean, reusable components and a well-organized project structure.
+
+## DESIGN DIRECTION
+
+Use a sophisticated dark-first design with excellent contrast.
+
+Color palette:
+
+* Black / near-black background
+* White / off-white text
+* Subtle gray tones
+* One restrained accent color for highlights
+
+The design should have:
+
+* Strong typography
+* Plenty of whitespace
+* Smooth transitions
+* Subtle gradients
+* Glass/blur effects only where they improve the design
+* Clean cards
+* Elegant hover states
+* Smooth scrolling
+* Professional animations
+
+Do NOT make the website look like a template or overly flashy developer portfolio.
+
+## WEBSITE STRUCTURE
+
+Create the following sections:
+
+### 1. NAVIGATION
+
+Sticky/fixed navigation.
+
+Include:
+
+* Logo/name
+* Home
+* About
+* Projects
+* Skills
+* Experience
+* Contact
+
+Include a prominent CTA such as:
+"Let's Work Together"
+
+On mobile, use a clean hamburger menu.
+
+---
+
+### 2. HERO SECTION
+
+Create a strong first impression.
+
+Include:
+
+"Hi, I'm Francis."
+
+A headline similar to:
+
+"Frontend & Full-Stack Developer Building Modern Digital Experiences."
+
+Create a short description explaining that I build responsive websites and web applications for businesses, organizations, and personal brands.
+
+Include two CTAs:
+
+"View My Work"
+"Let's Work Together"
+
+Also include links/icons for:
+
+* GitHub
+* LinkedIn
+* Email
+
+Use subtle animation when the page loads.
+
+Add a small status indicator such as:
+
+"Available for freelance projects"
+
+Do not make exaggerated claims such as "world's best developer."
+
+---
+
+### 3. ABOUT SECTION
+
+Create a concise but compelling developer introduction.
+
+Use information that can be reasonably inferred from my GitHub and the information I provide.
+
+Position me as someone who:
+
+* Builds modern web applications
+* Converts designs into responsive websites
+* Works with modern frontend technologies
+* Can work across frontend and backend when required
+* Focuses on clean UI and good user experience
+* Can build custom websites for businesses
+
+Keep the writing natural and professional.
+
+---
+
+### 4. SKILLS / TECHNOLOGIES
+
+Analyze my GitHub repositories and identify technologies I actually use.
+
+Prioritize technologies such as:
+
+* JavaScript
+* TypeScript
+* React
+* Next.js
+* Vue
+* Nuxt
+* Tailwind CSS
+* Node.js
+* Git/GitHub
+* HTML
+* CSS
+
+Only include technologies that are reasonably supported by my repositories or information provided.
+
+Display them using elegant cards/icons.
+
+Group them into categories:
+
+Frontend
+Backend
+Tools & Technologies
+
+Do not create an enormous list of technologies just to make the portfolio look impressive.
+
+---
+
+### 5. FEATURED PROJECTS
+
+This is one of the most important sections.
+
+Analyze my GitHub repositories and select my strongest and most relevant projects.
+
+Create beautiful project cards containing:
+
+* Project name
+* Screenshot/preview
+* Short description
+* Technologies used
+* GitHub repository link
+* Live demo link if available
+* "View Project" button
+
+Projects should be displayed in a visually interesting layout rather than a boring grid.
+
+For each project, explain:
+
+* What the project does
+* The problem it solves
+* The technologies used
+* Any notable functionality
+
+Prioritize projects that demonstrate real-world development ability.
+
+If a repository has no image, generate an appropriate project preview using the project's actual theme/functionality rather than using unrelated stock imagery.
+
+Do not invent features that don't exist in the repository.
+
+Include a "View All Projects" button that links to my GitHub.
+
+---
+
+### 6. PROJECT DETAIL EXPERIENCE
+
+When a user clicks a project, provide a detailed project view or modal.
+
+Include:
+
+* Project overview
+* Problem / purpose
+* Key features
+* Tech stack
+* GitHub link
+* Live demo
+* Screenshots
+* Development highlights
+
+Make this experience smooth and professional.
+
+---
+
+### 7. EXPERIENCE SECTION
+
+Create a simple professional experience/timeline section.
+
+Include my relevant development experience, internship experience, freelance work, and important development milestones based on the information I provide.
+
+Do not invent companies, positions, dates, or responsibilities.
+
+Structure each experience with:
+
+* Role
+* Organization
+* Date
+* Description
+* Technologies used
+
+---
+
+### 8. SERVICES SECTION
+
+Since I also work with clients, include a section showing what I can help businesses with.
+
+Services:
+
+1. Business Websites
+   Modern responsive websites for businesses and organizations.
+
+2. Landing Pages
+   High-converting landing pages for products, services, and campaigns.
+
+3. Web Applications
+   Custom web applications with modern frontend and backend technologies.
+
+4. Website Replication & Redesign
+   Recreate, modernize, or improve existing websites while maintaining the required functionality.
+
+5. E-commerce Websites
+   Custom online stores with product management and business-focused features.
+
+Keep this section concise and professional.
+
+---
+
+### 9. DEVELOPMENT PROCESS
+
+Create a simple 4-step process:
+
+01 — Discover
+Understand the client's goals and requirements.
+
+02 — Design & Plan
+Plan the structure, user experience, and technical approach.
+
+03 — Build
+Develop the website/application with clean and reusable code.
+
+04 — Launch
+Test, deploy, and hand over the completed product.
+
+Make this section visually interesting but minimal.
+
+---
+
+### 10. GITHUB / DEVELOPER ACTIVITY
+
+Create a section that connects directly to my GitHub.
+
+Show:
+
+* GitHub profile
+* Repository count if available
+* Selected repository statistics if available
+* Contribution/activity visualization if possible
+* Programming languages used
+
+Do not fabricate statistics.
+
+If GitHub API integration is practical, implement it properly.
+
+---
+
+### 11. CONTACT SECTION
+
+Create a strong final CTA.
+
+Headline:
+
+"Have a project in mind?"
+
+Supporting text:
+
+"Let's build something useful, modern, and impactful."
+
+Include:
+
+* Email
+* GitHub
+* LinkedIn
+* Contact form
+
+The contact form should contain:
+
+* Name
+* Email
+* Project type
+* Message
+* Submit button
+
+For now, structure the form so it can easily be connected to an email service/backend later.
+
+---
+
+### 12. FOOTER
+
+Include:
+
+* Name
+* Short developer description
+* Navigation links
+* Social links
+* Copyright
+* "Built with Next.js"
+
+## FUNCTIONAL REQUIREMENTS
+
+Make sure the website has:
+
+* Fully responsive design
+* Mobile-first layout
+* Fast page loading
+* SEO metadata
+* Open Graph metadata
+* Accessible semantic HTML
+* Keyboard accessibility
+* Smooth scrolling
+* Working navigation
+* Working external GitHub links
+* Working project links
+* Working social links
+* Proper error handling
+* Loading states where needed
+* Good image optimization
+* Clean reusable components
+
+## ANIMATIONS
+
+Use Framer Motion or CSS animations for:
+
+* Hero entrance
+* Section reveals
+* Project card hover
+* Buttons
+* Navigation
+* Page transitions where appropriate
+
+Keep animations subtle and professional.
+
+Do NOT over-animate the website.
+
+## GITHUB INTEGRATION
+
+After I provide my GitHub URL:
+
+1. Analyze my repositories.
+2. Identify the projects that best demonstrate my skills.
+3. Extract project descriptions where possible.
+4. Identify technologies used.
+5. Identify repository URLs.
+6. Identify live demo URLs where available.
+7. Use repository information to populate the portfolio.
+8. Do not fabricate projects or technologies.
+9. Prioritize quality and relevance over displaying every repository.
+
+Create the project data in a structured format so I can easily add/edit projects later.
+
+For example:
+
+projects/
+projectName
+description
+technologies
+githubUrl
+liveUrl
+image
+featured
+highlights
+
+## CONTENT MANAGEMENT
+
+Keep portfolio content easy to update.
+
+Separate content/data from UI components wherever practical.
+
+I should be able to easily change:
+
+* About text
+* Skills
+* Projects
+* Experience
+* Services
+* Social links
+* Contact information
+
+without having to rewrite major components.
+
+## PERFORMANCE
+
+Optimize for:
+
+* Lighthouse performance
+* SEO
+* Accessibility
+* Mobile performance
+* Image optimization
+* Minimal unnecessary dependencies
+
+Avoid unnecessary API calls.
+
+Cache GitHub data when appropriate.
+
+## IMPORTANT DESIGN RULE
+
+The final website should NOT look like a generic "developer portfolio template."
+
+Make it feel like a real professional developer's personal brand.
+
+The visual hierarchy should immediately communicate:
+
+WHO I AM → WHAT I BUILD → MY BEST WORK → WHAT I CAN DO → HOW TO CONTACT ME
+
+Before finishing, test the website on:
+
+* Desktop
+* Tablet
+* Mobile
+
+Fix all layout issues, broken links, console errors, TypeScript errors, and responsiveness problems.
+
+Build the complete working portfolio, not just a visual mockup.

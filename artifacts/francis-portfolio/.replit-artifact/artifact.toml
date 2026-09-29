@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "Francis Anyaegbu Portfolio"
+description = "A premium personal portfolio for Francis Anyaegbu, presenting his real development work, technical strengths, services, process, and a direct path for prospective clients to get in touch."
+version = "1.0.0"
+id = "artifacts/francis-portfolio"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 26232
+
+[services.development]
+run = "pnpm --filter @workspace/francis-portfolio run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/francis-portfolio", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/francis-portfolio/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "26232"
+BASE_PATH = "/"
