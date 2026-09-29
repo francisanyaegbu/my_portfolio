@@ -1,4 +1,4 @@
-export default async function handler(req: any, res: any) {
+export default async function handler(req, res) {
   const token = process.env.VERCEL_API_TOKEN;
   if (!token) {
     return res.status(200).json({ configured: false, projects: [] });
@@ -18,7 +18,7 @@ export default async function handler(req: any, res: any) {
 
     const data = await vercelRes.json();
     return res.status(200).json({ configured: true, projects: data.projects || [] });
-  } catch (error: any) {
-    return res.status(500).json({ configured: true, error: error.message });
+  } catch (error) {
+    return res.status(500).json({ configured: true, error: error?.message || 'Server error' });
   }
 }
